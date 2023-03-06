@@ -1,0 +1,90 @@
+.container{
+    border: 1px solid gainsboro;
+    width: 300px;
+    height: 250px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 300px;
+    text-align: center;
+    padding: 5px;
+}
+.form-label{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 10px;
+    font-weight: bold;
+
+}
+#input-email{
+    width: 270px;
+    height: 25px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid gainsboro;
+}
+.h1{
+    float: left;
+    margin-left: 10px;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+   
+}
+.submit{
+    width: 278px;
+    height: 28px;
+    color: black;
+    background-color: rgb(162, 162, 6);
+    border-radius: 3px;
+    border: 1px solid gainsboro;
+}
+#img{
+    margin-left: 400px;
+    margin-top: 80px;
+    width: 100px;
+    height:30px;
+    
+  
+} 
+
+.submit2{
+    width: 290px;
+    height: 28px;
+    margin-left: 310px;
+    color: black;
+    background-color: gainsboro;
+    border-radius: 3px;
+    border: 1px solid gainsboro;
+}
+.hr1{
+    width: 90px;
+    float: left;
+}
+.line{
+    float: left;
+    margin-right: 3px;
+    border: 0px solid gainsboro;
+    margin-left: 7px;
+    color: gray;
+}
+.hr2{
+    width: 95px;
+    float: right;
+    right: 10px;
+    margin-top: 3px;
+}
+.container2{
+    height: 30px;
+    width: 315px;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    border: 0px solid gainsboro;
+}
+p{
+    font-size: 13px;
+}
+.span{
+    color: rgb(0, 200, 255);
+}
